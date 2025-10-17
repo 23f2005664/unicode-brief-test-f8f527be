@@ -1,2 +1,6 @@
-# unicode-brief-test-f8f527be
-Auto-generated repo for task: unicode-brief-test
+# unicode-brief-test
+
+Round: 1
+
+Brief:
+Create a page that displays the heading '你好世界' and the paragraph 'C'est la vie'.
